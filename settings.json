@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "HoomaServer2.aternos.me",
+    "port": 42902,
     "version": "",
     "try-creative": false
   },
